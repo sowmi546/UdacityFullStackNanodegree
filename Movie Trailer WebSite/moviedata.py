@@ -40,4 +40,6 @@ secret_life = myclass.Movie("The Secret Life of Pets",
 
 # The array 'movies' stores the instance of Movie class.
 movies =[cap_america,finding_dory,zootopia,jungle_book,dead_pool,secret_life]
+# We are invoking 'open_movies_page' function with movies as argument which is
+# present in fresh_tomatoes.py file.
 fresh_tomatoes.open_movies_page(movies)
