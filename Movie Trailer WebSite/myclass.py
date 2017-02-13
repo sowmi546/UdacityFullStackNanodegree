@@ -1,7 +1,7 @@
 import webbrowser
 # Creating a data structure named Movie
 class Movie():
-    """Class that stores all the information about a movie"""
+    """Class that stores all the information about a movie."""
     def __init__(self,movie_title,poster_image,trailer_youtube):
         self.title = movie_title
         self.poster_image_url = poster_image
