@@ -1,5 +1,5 @@
 import webbrowser
-#Creating a data structure named Movie
+# Creating a data structure named Movie
 class Movie():
     def __init__(self,movie_title,poster_image,trailer_youtube):
         self.title = movie_title
