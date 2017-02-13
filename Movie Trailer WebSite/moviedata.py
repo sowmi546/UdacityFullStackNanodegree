@@ -1,7 +1,7 @@
 import myclass
 import fresh_tomatoes
 
-# creating instances of Movie class
+# creating instances of Movie class.
 
 cap_america = myclass.Movie("Captain America",
                             "http://static.rogerebert.com/uploads/movie/"
