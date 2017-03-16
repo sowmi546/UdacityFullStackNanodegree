@@ -1,0 +1,24 @@
+    .c2 {
+        font-family: 'Roboto', sans-serif;
+    }
+    .title-super {
+        font-size: 40px;
+    }
+
+    .row>img {
+        height: 300px;
+    }
+
+    @media screen and (min-width:768px) {
+        .modal-dialog {
+            width: 600px;
+            height: 600px;
+        }
+        .modal-sm {
+            width: 350px;
+            height: 350px;
+        }
+    }
+    .main-img {
+        width: 1140px;
+    }
